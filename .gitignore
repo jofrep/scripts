@@ -1,0 +1,14 @@
+# data files
+*.log
+*.csv
+*.txt
+
+# pki
+*.cer
+*.crt
+*.pfx
+*.pem
+
+#j2me
+*.jad
+*.jar
